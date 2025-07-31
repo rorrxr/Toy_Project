@@ -30,8 +30,8 @@
 
 | 프로젝트명 | 기간 | 기술 스택 | 주요 기능 | 링크 |
 |-----------|------|-----------|-----------|------|
-| **vue-housing-site** | 2025.07.13 ~ 진행 중 | TypeScript, Vue.js | 부동산 프로젝 | [🔗 GitHub](https://github.com/rorrxr/vue-housing-site) |
-| **TIL_TypeScript** | 2025.08 ~ 진행 중 | bootstr | TypeScript 문법 공부 | [🔗 GitHub](https://github.com/rorrxr/TIL_TypeScript) |
+| **vue-housing-site** | 2025.07.13 ~ 진행 중 | TypeScript, Vue.js | 부동산 프로젝트 | [🔗 GitHub](https://github.com/rorrxr/vue-housing-site) |
+| **TIL_TypeScript** | 2025.08 ~ 진행 중 | TypeScript | TypeScript 문법 공부 | [🔗 GitHub](https://github.com/rorrxr/TIL_TypeScript) |
 
 > 💡 각 프로젝트 상세 설명은 해당 폴더의 `README.md` 참고
 
